@@ -1,0 +1,952 @@
+2025-03-04 22:57:12,768 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}]"
+2025-03-04 23:14:03,245 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-04 23:14:03,304 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}]"
+2025-03-04 23:18:58,862 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-04 23:18:58,944 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}]"
+2025-03-04 23:18:59,018 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-04 23:24:26,552 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-04 23:24:26,683 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-04 23:24:26,820 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 14:19:45,550 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 14:19:47,264 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 14:19:47,454 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 14:19:47,664 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 14:19:57,948 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:19:57,948 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:19:59,893 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:19:59,893 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:20:00,027 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:20:00,027 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:31:11,036 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 14:31:12,616 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 14:31:12,807 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 14:31:12,884 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 14:31:23,116 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:31:23,116 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:31:24,897 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:31:24,897 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:31:25,065 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:31:25,065 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:33:55,889 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 14:33:57,635 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 14:33:58,068 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 14:34:00,529 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 14:34:00,587 : INFO : utilities.BaseClass : Registration test passed.
+2025-03-05 14:34:00,592 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:34:00,592 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:34:02,311 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:34:02,311 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:39:39,183 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 14:39:40,965 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 14:39:41,146 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 14:39:41,304 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 14:39:51,497 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:39:51,497 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:39:53,059 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:39:53,059 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:39:53,340 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:39:53,340 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:40:44,209 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 14:40:45,839 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 14:40:45,999 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 14:40:46,230 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 14:40:56,478 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:40:56,478 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:40:58,320 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:40:58,320 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:40:58,474 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:40:58,474 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:44:00,036 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 14:44:01,713 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 14:44:01,935 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 14:44:02,019 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 14:44:12,253 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:44:12,253 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 14:44:13,801 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:44:13,801 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 14:44:14,076 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 14:44:14,076 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 15:27:40,694 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 15:27:42,679 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 15:27:42,832 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 15:27:42,904 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 15:27:53,131 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 15:27:53,131 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 15:27:55,119 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 15:27:55,119 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 15:27:55,438 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 15:27:55,438 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 15:30:20,068 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 15:30:21,655 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 15:30:21,806 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 15:30:21,918 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 15:30:42,126 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 15:30:42,126 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 15:30:43,865 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 15:30:43,865 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 15:30:44,101 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 15:30:44,101 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 15:33:46,334 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 15:33:48,175 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 15:33:48,439 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 15:33:48,551 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 15:34:19,147 : ERROR : utilities.BaseClass : Timed out waiting for the success message. Checking for error messages.
+2025-03-05 15:34:19,298 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 15:34:19,298 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 15:34:21,154 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 15:34:21,154 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 15:34:21,500 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 15:34:21,500 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 15:38:37,730 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 15:38:39,414 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 15:38:39,632 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 15:38:39,957 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 15:39:10,538 : ERROR : utilities.BaseClass : Timed out waiting for the success message. Checking for error messages.
+2025-03-05 15:39:20,759 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 15:39:20,759 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 15:39:22,474 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 15:39:22,474 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 15:39:22,632 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 15:39:22,632 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 16:33:04,779 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 16:33:06,493 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 16:33:48,123 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 16:33:49,935 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 16:33:50,098 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 16:33:50,223 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 16:34:10,824 : ERROR : utilities.BaseClass : Timed out waiting for the success message. Checking for error messages.
+2025-03-05 16:34:21,088 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 16:34:21,088 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 16:34:22,745 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 16:34:22,745 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 16:34:23,057 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 16:34:23,057 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 16:34:34,316 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 16:34:34,316 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 16:34:34,316 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 16:34:36,128 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 16:34:36,128 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 16:34:36,128 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 16:35:07,265 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-05 16:35:07,265 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-05 16:35:07,265 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-05 16:35:07,265 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-05 16:35:12,531 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-05 16:35:12,531 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-05 16:35:12,531 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-05 16:35:12,531 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-05 16:35:14,918 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-05 16:35:14,918 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-05 16:35:14,918 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-05 16:35:14,918 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-05 16:35:14,918 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-05 16:35:14,918 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-05 16:35:14,918 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-05 16:35:14,918 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-05 16:35:15,002 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-05 16:35:15,002 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-05 16:35:15,002 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-05 16:35:15,002 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-05 16:35:15,018 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:35:15,018 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:35:15,018 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:35:15,018 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:35:15,018 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:35:15,102 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:35:15,102 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:35:15,102 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:35:15,102 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:35:15,102 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:37:17,754 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-05 16:37:19,386 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-05 16:37:19,540 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-05 16:37:19,635 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-05 16:37:40,262 : ERROR : utilities.BaseClass : Timed out waiting for the success message. Checking for error messages.
+2025-03-05 16:37:50,455 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 16:37:50,455 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-05 16:37:52,106 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 16:37:52,106 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-05 16:37:52,273 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 16:37:52,273 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-05 16:38:03,852 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 16:38:03,852 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 16:38:03,852 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 16:38:05,495 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 16:38:05,495 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 16:38:05,495 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 16:38:33,862 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-05 16:38:33,862 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-05 16:38:33,862 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-05 16:38:33,862 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-05 16:38:39,071 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-05 16:38:39,071 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-05 16:38:39,071 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-05 16:38:39,071 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-05 16:38:41,236 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-05 16:38:41,236 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-05 16:38:41,236 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-05 16:38:41,236 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-05 16:38:41,237 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-05 16:38:41,237 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-05 16:38:41,237 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-05 16:38:41,237 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:38:41,420 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-05 16:38:41,608 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:38:41,608 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:38:41,608 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:38:41,608 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:38:41,608 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-05 16:57:46,023 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 16:57:47,585 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 16:57:49,451 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 16:57:49,469 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 17:02:54,411 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 17:02:55,936 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 17:02:57,653 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 17:02:57,674 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 19:57:03,960 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 19:57:07,631 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 19:57:11,115 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 19:57:11,168 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 20:00:10,564 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 20:00:13,647 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 20:00:17,823 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 20:00:17,854 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 20:10:48,189 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 20:10:51,117 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 20:10:54,276 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 20:10:54,313 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 20:22:07,760 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 20:22:10,916 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 20:22:12,816 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 20:22:12,863 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 20:24:01,620 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 20:24:04,562 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 20:24:07,690 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 20:24:07,718 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 20:32:32,256 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 20:32:34,949 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 20:32:38,419 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 20:32:38,439 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 20:41:13,780 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 20:41:16,859 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 20:41:20,003 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 20:41:20,032 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 20:52:39,387 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 20:52:42,447 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 20:52:45,713 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 20:52:45,738 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-05 21:13:55,297 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-05 21:13:58,551 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-05 21:14:01,883 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-05 21:14:01,912 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 00:34:35,032 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 00:34:38,003 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 00:34:41,006 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 00:34:41,036 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 00:37:48,980 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 00:37:51,857 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 00:37:55,326 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 00:37:55,355 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 00:51:56,870 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 00:51:59,789 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 00:52:02,620 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 00:52:02,656 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 00:56:00,623 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 00:56:03,455 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 00:56:06,489 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 00:56:06,539 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 01:06:45,014 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 01:06:48,119 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 01:06:49,839 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 01:06:49,915 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 01:20:22,141 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 01:20:25,119 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 01:20:28,137 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 01:20:28,201 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 01:24:04,075 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 01:24:08,494 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 01:24:13,028 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 01:24:13,111 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 01:53:57,397 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 01:54:00,232 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 01:54:03,965 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 01:54:04,053 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 02:07:00,992 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 02:07:03,802 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 02:07:05,383 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 02:07:05,427 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 02:09:47,804 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 02:09:50,844 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 02:09:53,489 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 02:09:56,966 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 02:16:54,645 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 02:17:23,532 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 02:17:28,468 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 02:17:35,186 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 02:26:45,076 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 02:26:48,170 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 02:26:49,941 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 02:26:53,635 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 02:26:54,158 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 02:34:49,158 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 02:34:52,125 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 02:34:55,300 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 02:34:59,262 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 02:35:00,478 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 02:55:10,574 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 02:55:41,428 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 02:55:49,664 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 02:55:54,073 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 02:55:54,666 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:00:55,236 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:00:58,994 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:01:02,624 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:01:08,117 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:01:10,452 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:04:46,505 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 03:04:49,371 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 03:04:49,692 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 03:04:49,823 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-06 03:05:10,417 : ERROR : utilities.BaseClass : Timed out waiting for the success message. Checking for error messages.
+2025-03-06 03:05:20,651 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 03:05:20,651 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 03:05:25,017 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 03:05:25,017 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 03:05:25,416 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 03:05:25,416 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 03:05:52,082 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:05:52,082 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:05:52,082 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:05:55,970 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:05:55,970 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:05:55,970 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:05:59,528 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:05:59,528 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:05:59,528 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:06:03,256 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:06:03,256 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:06:03,256 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:06:04,140 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:06:04,140 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:06:04,140 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:06:45,634 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 03:06:45,634 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 03:06:45,634 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 03:06:45,634 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 03:06:50,879 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 03:06:50,879 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 03:06:50,879 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 03:06:50,879 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 03:06:54,503 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 03:06:54,503 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 03:06:54,503 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 03:06:54,503 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 03:06:54,503 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 03:06:54,503 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 03:06:54,503 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 03:06:54,503 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 03:06:54,742 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 03:06:54,742 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 03:06:54,742 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 03:06:54,742 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 03:06:54,746 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:06:54,746 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:06:54,746 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:06:54,746 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:06:54,746 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:06:54,898 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:06:54,898 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:06:54,898 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:06:54,898 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:06:54,898 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:13:46,266 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 03:14:20,679 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 03:14:20,903 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 03:14:20,984 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-06 03:14:41,694 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 03:14:41,694 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 03:15:16,050 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 03:15:16,050 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 03:15:16,265 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 03:15:16,265 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 03:16:06,924 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:16:06,924 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:16:06,924 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:16:10,097 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:16:10,097 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:16:10,097 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:16:13,326 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:16:13,326 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:16:13,326 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:16:17,455 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:16:17,455 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:16:17,455 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:16:18,397 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:16:18,397 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:16:18,397 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:17:01,097 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 03:17:01,097 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 03:17:01,097 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 03:17:01,097 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 03:17:06,390 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 03:17:06,390 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 03:17:06,390 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 03:17:06,390 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 03:17:08,455 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 03:17:08,455 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 03:17:08,455 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 03:17:08,455 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 03:17:08,455 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 03:17:08,455 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 03:17:08,455 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 03:17:08,455 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 03:17:08,670 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 03:17:08,670 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 03:17:08,670 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 03:17:08,670 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 03:17:08,672 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:17:08,672 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:17:08,672 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:17:08,672 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:17:08,672 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 03:17:08,794 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:17:08,794 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:17:08,794 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:17:08,794 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:17:08,794 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 03:19:41,578 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:19:44,711 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:19:47,655 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:19:51,206 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:19:52,145 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:19:52,145 : INFO : utilities.BaseClass : Save the address
+2025-03-06 03:22:31,478 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:22:34,468 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:22:37,498 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:22:41,063 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:22:41,913 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:22:41,913 : INFO : utilities.BaseClass : Save the address
+2025-03-06 03:25:00,318 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 03:25:03,466 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 03:25:06,527 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 03:25:10,204 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 03:25:11,104 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 03:25:11,104 : INFO : utilities.BaseClass : Save the address
+2025-03-06 03:25:14,379 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 03:25:14,439 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 12:40:23,194 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 12:40:24,930 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 12:40:25,094 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 12:40:25,281 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-06 12:40:46,098 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 12:40:46,098 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 12:40:47,876 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 12:40:47,876 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 12:40:48,165 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 12:40:48,165 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 12:41:04,003 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 12:41:04,003 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 12:41:04,003 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 12:41:05,502 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 12:41:05,502 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 12:41:05,502 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 12:41:07,531 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 12:41:07,531 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 12:41:07,531 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 12:41:10,121 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 12:41:10,121 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 12:41:10,121 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 12:41:10,687 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 12:41:10,687 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 12:41:10,687 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 12:41:10,687 : INFO : utilities.BaseClass : Save the address
+2025-03-06 12:41:10,687 : INFO : utilities.BaseClass : Save the address
+2025-03-06 12:41:10,687 : INFO : utilities.BaseClass : Save the address
+2025-03-06 12:41:12,997 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 12:41:12,997 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 12:41:12,997 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 12:41:13,031 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 12:41:13,031 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 12:41:13,031 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 12:41:33,120 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 12:41:33,120 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 12:41:33,120 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 12:41:33,120 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 12:41:38,350 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 12:41:38,350 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 12:41:38,350 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 12:41:38,350 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 12:41:40,163 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 12:41:40,163 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 12:41:40,163 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 12:41:40,163 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 12:41:40,164 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 12:41:40,164 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 12:41:40,164 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 12:41:40,164 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 12:41:40,286 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 12:41:40,286 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 12:41:40,286 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 12:41:40,286 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 12:41:40,288 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 12:41:40,288 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 12:41:40,288 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 12:41:40,288 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 12:41:40,288 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 12:41:40,362 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 12:41:40,362 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 12:41:40,362 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 12:41:40,362 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 12:41:40,362 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 12:52:39,017 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 12:52:43,851 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 12:52:44,019 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 12:52:44,082 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-06 12:53:04,793 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 12:53:04,793 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 12:53:06,489 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 12:53:06,489 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 12:53:06,700 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 12:53:06,700 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 12:58:06,304 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 12:58:07,684 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 12:58:07,850 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 12:58:07,938 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-06 12:58:28,751 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 12:58:28,751 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 12:58:30,420 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 12:58:30,420 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 12:58:30,556 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 12:58:30,556 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:00:31,331 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 13:00:33,161 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 13:00:33,337 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 13:00:44,007 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:00:44,007 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:00:46,312 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:00:46,312 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:00:46,510 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:00:46,510 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:09:00,757 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 13:09:02,531 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 13:09:02,696 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 13:09:13,319 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:09:13,319 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:09:15,048 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:09:15,048 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:12:39,454 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 13:12:41,187 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 13:12:41,340 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 13:13:14,106 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:13:14,106 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:13:15,735 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:13:15,735 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:13:15,864 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:13:15,864 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:14:07,380 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 13:14:08,057 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 13:14:09,512 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 13:14:40,169 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:14:40,169 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:14:42,118 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:14:42,118 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:14:42,272 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:14:42,272 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:15:00,050 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:15:00,050 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:15:00,050 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:15:01,598 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:15:01,598 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:15:01,598 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:15:03,361 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:15:03,361 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:15:03,361 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:15:05,639 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:15:05,639 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:15:05,639 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:15:06,267 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:15:06,267 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:15:06,267 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:15:06,279 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:15:06,279 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:15:06,279 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:15:08,523 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:15:08,523 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:15:08,523 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:15:08,558 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:15:08,558 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:15:08,558 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:15:28,577 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:15:28,577 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:15:28,577 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:15:28,577 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:15:33,789 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:15:33,789 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:15:33,789 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:15:33,789 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:15:35,684 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:15:35,684 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:15:35,684 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:15:35,684 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:15:35,684 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:15:35,684 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:15:35,684 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:15:35,684 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:15:35,790 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:15:35,901 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:15:35,901 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:15:35,901 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:15:35,901 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:15:35,901 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:16:48,312 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 13:16:49,940 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 13:16:50,098 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 13:16:55,261 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:16:55,261 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:16:56,980 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:16:56,980 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:17:42,763 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:17:42,763 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:17:42,763 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:17:44,296 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:17:44,296 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:17:44,296 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:17:46,074 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:17:46,074 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:17:46,074 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:17:48,353 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:17:48,353 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:17:48,353 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:17:49,021 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:17:49,021 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:17:49,021 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:17:49,021 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:17:49,021 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:17:49,021 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:17:51,371 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:17:51,371 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:17:51,371 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:17:51,404 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:17:51,404 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:17:51,404 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:18:13,434 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:18:13,434 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:18:13,434 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:18:13,434 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:18:18,709 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:18:18,709 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:18:18,709 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:18:18,709 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:18:20,783 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:18:20,783 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:18:20,783 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:18:20,783 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:18:20,783 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:18:20,783 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:18:20,783 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:18:20,783 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:18:20,922 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:18:20,922 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:18:20,922 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:18:20,922 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:18:20,938 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:18:20,938 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:18:20,938 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:18:20,938 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:18:20,938 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:18:21,097 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:18:21,097 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:18:21,097 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:18:21,097 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:18:21,097 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:21:14,489 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 13:21:16,160 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 13:21:16,330 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 13:21:41,634 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:21:41,634 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:21:43,454 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:21:43,454 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:22:32,956 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:22:32,956 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:22:32,956 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:22:34,647 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:22:34,647 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:22:34,647 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:22:36,565 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:22:36,565 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:22:36,565 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:22:39,203 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:22:39,203 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:22:39,203 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:22:39,875 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:22:39,875 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:22:39,875 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:22:39,875 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:22:39,875 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:22:39,875 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:22:42,471 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:22:42,471 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:22:42,471 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:22:42,525 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:22:42,525 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:22:42,525 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:23:03,765 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:23:03,765 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:23:03,765 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:23:03,765 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:23:09,012 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:23:09,012 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:23:09,012 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:23:09,012 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:23:12,088 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:23:12,088 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:23:12,088 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:23:12,088 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:23:12,088 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:23:12,088 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:23:12,088 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:23:12,088 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:23:12,249 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:23:12,357 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:23:12,357 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:23:12,357 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:23:12,357 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:23:12,357 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:47:32,173 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 13:47:34,014 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 13:47:34,305 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 13:48:04,468 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:48:04,468 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:48:06,234 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:48:06,234 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:48:06,480 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:48:06,480 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:48:23,534 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:48:23,534 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:48:23,534 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-06 13:48:25,134 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:48:25,134 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:48:25,134 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-06 13:48:27,149 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:48:27,149 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:48:27,149 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-06 13:48:29,576 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:48:29,576 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:48:29,576 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-06 13:48:30,271 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:48:30,271 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:48:30,271 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-06 13:48:30,271 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:48:30,271 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:48:30,271 : INFO : utilities.BaseClass : Save the address
+2025-03-06 13:48:32,940 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:48:32,940 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:48:32,940 : INFO : utilities.BaseClass : Verifying success message
+2025-03-06 13:48:32,987 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:48:32,987 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:48:32,987 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-06 13:48:53,502 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:48:53,502 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:48:53,502 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:48:53,502 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 13:48:58,734 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:48:58,734 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:48:58,734 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:48:58,734 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 13:49:02,415 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:49:02,415 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:49:02,415 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:49:02,415 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 13:49:02,415 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:49:02,415 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:49:02,415 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:49:02,415 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:49:02,628 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 13:49:02,789 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:49:02,789 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:49:02,789 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:49:02,789 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:49:02,789 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 13:59:14,820 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 13:59:16,614 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 13:59:16,967 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 13:59:17,140 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:59:17,140 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 13:59:18,818 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:59:18,818 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 13:59:19,113 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 13:59:19,113 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:09:55,938 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:09:57,938 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:09:58,250 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:09:58,792 : INFO : utilities.BaseClass : Register button clicked using Tab and Enter keys.
+2025-03-06 14:09:58,995 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:09:58,995 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:10:01,479 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:10:01,479 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:10:02,095 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:10:02,095 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:11:57,119 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:11:58,901 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:11:59,173 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:11:59,619 : INFO : utilities.BaseClass : Register button clicked using Tab and Enter keys.
+2025-03-06 14:11:59,831 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:11:59,831 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:12:02,166 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:12:02,166 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:12:02,546 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:12:02,546 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:19:18,141 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:19:19,880 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:19:20,114 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:19:37,545 : INFO : utilities.BaseClass : Register button clicked successfully using Fluent Wait.
+2025-03-06 14:21:11,439 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:21:14,056 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:21:14,631 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:21:34,963 : INFO : utilities.BaseClass : Register button clicked successfully using Fluent Wait.
+2025-03-06 14:23:39,440 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:23:41,588 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:23:41,790 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:23:42,377 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:23:42,377 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:23:44,101 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:23:44,101 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:23:44,337 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:23:44,337 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:29:52,316 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:29:53,945 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:29:54,099 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:29:54,583 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:29:54,583 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:29:56,170 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:29:56,170 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:29:56,349 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:29:56,349 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:34:15,884 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:34:18,497 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:34:18,642 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:43:24,374 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:43:26,120 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:43:26,275 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:43:26,601 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:43:26,601 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:43:28,448 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:43:28,448 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:43:28,601 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:43:28,601 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:44:00,935 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:44:02,608 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:44:02,775 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:44:03,088 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:44:03,088 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:44:04,695 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:44:04,695 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:44:04,843 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:44:04,843 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:44:41,034 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:44:43,546 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:44:43,694 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:44:43,993 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:44:43,993 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:44:45,610 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:44:45,610 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:44:45,809 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:44:45,809 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:45:32,917 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 14:45:32,917 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 14:45:32,917 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 14:45:38,134 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 14:45:38,134 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 14:45:38,134 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 14:45:40,165 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 14:45:40,165 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 14:45:40,165 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 14:45:40,166 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 14:45:40,166 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 14:45:40,166 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 14:45:40,268 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 14:45:40,268 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 14:45:40,268 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 14:45:40,270 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 14:45:40,270 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 14:45:40,270 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 14:45:40,270 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 14:45:40,359 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 14:45:40,359 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 14:45:40,359 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 14:45:40,359 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 14:49:30,305 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:49:32,541 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:49:32,739 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:49:33,060 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:49:33,060 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-06 14:49:34,632 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:49:34,632 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-06 14:49:34,845 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:49:34,845 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-06 14:50:12,845 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 14:50:12,845 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 14:50:12,845 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-06 14:50:18,064 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 14:50:18,064 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 14:50:18,064 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-06 14:50:20,361 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 14:50:20,361 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 14:50:20,361 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-06 14:50:20,361 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 14:50:20,361 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 14:50:20,361 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-06 14:50:20,503 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 14:50:20,503 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 14:50:20,503 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-06 14:50:20,508 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 14:50:20,508 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 14:50:20,508 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 14:50:20,508 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-06 14:50:20,610 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 14:50:20,610 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 14:50:20,610 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 14:50:20,610 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-06 14:55:02,723 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:55:04,735 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:55:04,881 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:55:56,021 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-06 14:55:57,839 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-06 14:55:57,986 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-06 14:55:58,316 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-06 14:56:18,903 : WARNING : utilities.BaseClass : TimeoutException: Registration message not found.
+2025-03-06 14:56:18,903 : WARNING : utilities.BaseClass : Skipping registration success message verification.
+2025-03-06 14:56:18,903 : INFO : utilities.BaseClass : Registration test passed.
