@@ -3,7 +3,8 @@ import logging
 
 
 class BaseClass:
-    def getLoger(self):
+    @classmethod
+    def getLoger(cls):
         #loggerName = inspect.stack()[1][3]
         logger = logging.getLogger(__name__)
         fileHandler = logging.FileHandler('logfile.log')

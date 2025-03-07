@@ -36,4 +36,8 @@ class TestCartPage(BaseClass):
         cartPage.removeCart_Item().click()
         log.info("Item removed from the cart.")
 
+        log.info("Retrieving product details from the cart after remove item.")
+        product_details = cartPage.get_productDetails()
+        log.info(f"Product Details in Cart: {product_details}".encode('utf-8'))
+
 

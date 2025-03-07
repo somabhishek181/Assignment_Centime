@@ -1,3 +1,4 @@
+import time
 from urllib import request
 
 import pytest
@@ -22,14 +23,18 @@ def setup(request):
 
 
 @pytest.fixture
-def login_fixture(setup):
+def login_fixture(setup, request):
     driver = setup
     logger = request.cls.getLoger()
     accountPage = AccountPage(driver, logger)
-
     # Perform login
+    logger.info("Launching the Login Page.")
     driver.get("https://practice.automationtesting.in/my-account/")
-    accountPage.enter_login_username().send_keys("abhi181@yahoor.com")
+
+    logger.info("Entering login credentials.")
+    accountPage.enter_login_username().send_keys("testuser51@example.com")
     accountPage.enter_login_password().send_keys("Abhiss@1234")
+    logger.info("Clicking on the login button.")
     accountPage.submit_login().click()
-    driver.implicitly_wait(5)
+    logger.info("Login process complete.")
+

@@ -950,3 +950,325 @@
 2025-03-06 14:56:18,903 : WARNING : utilities.BaseClass : TimeoutException: Registration message not found.
 2025-03-06 14:56:18,903 : WARNING : utilities.BaseClass : Skipping registration success message verification.
 2025-03-06 14:56:18,903 : INFO : utilities.BaseClass : Registration test passed.
+2025-03-07 00:19:53,738 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-07 00:19:56,890 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-07 00:19:57,173 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-07 00:19:57,532 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-07 00:20:18,120 : WARNING : utilities.BaseClass : TimeoutException: Registration message not found.
+2025-03-07 00:20:18,121 : WARNING : utilities.BaseClass : Skipping registration success message verification.
+2025-03-07 00:20:18,121 : INFO : utilities.BaseClass : Registration test passed.
+2025-03-07 00:20:18,129 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 00:20:18,129 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 00:20:21,352 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 00:20:21,352 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 00:20:21,933 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 00:20:21,933 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 00:22:33,755 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-07 00:22:37,318 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-07 00:22:37,578 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-07 00:22:37,883 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-07 00:22:58,481 : WARNING : utilities.BaseClass : TimeoutException: Registration message not found.
+2025-03-07 00:22:58,481 : WARNING : utilities.BaseClass : Skipping registration success message verification.
+2025-03-07 00:22:58,481 : INFO : utilities.BaseClass : Registration test passed.
+2025-03-07 00:22:58,515 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 00:22:58,515 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 00:23:01,723 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 00:23:01,723 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 00:23:01,962 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 00:23:01,962 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 00:23:56,518 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 00:23:56,518 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 00:23:56,518 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 00:24:01,772 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 00:24:01,772 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 00:24:01,772 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 00:24:05,334 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 00:24:05,334 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 00:24:05,334 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 00:24:05,334 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 00:24:05,334 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 00:24:05,334 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 00:24:05,491 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 00:24:05,491 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 00:24:05,491 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 00:24:05,494 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 00:24:05,494 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 00:24:05,494 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 00:24:05,494 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 00:24:05,595 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 00:24:05,595 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 00:24:05,595 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 00:24:05,595 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 00:28:05,459 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-07 00:28:08,250 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-07 00:28:08,439 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-07 00:28:08,768 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-07 00:28:29,396 : WARNING : utilities.BaseClass : TimeoutException: Registration message not found.
+2025-03-07 00:28:29,558 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 00:28:29,558 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 00:28:32,860 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 00:28:32,860 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 00:28:33,037 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 00:28:33,037 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 00:35:13,061 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-07 00:35:16,295 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-07 00:35:16,479 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-07 00:35:16,799 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-07 00:35:37,410 : WARNING : utilities.BaseClass : TimeoutException: Registration message not found.
+2025-03-07 00:35:37,410 : WARNING : utilities.BaseClass : Skipping registration success message verification.
+2025-03-07 00:35:37,410 : INFO : utilities.BaseClass : Registration test passed.
+2025-03-07 00:35:37,413 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 00:35:37,413 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 00:35:41,428 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 00:35:41,428 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 00:35:41,609 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 00:35:41,609 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 02:35:57,243 : INFO : utilities.BaseClass : Navigating to the Registration Page.
+2025-03-07 02:36:00,288 : INFO : utilities.BaseClass : Filling the registration form.
+2025-03-07 02:36:00,492 : INFO : utilities.BaseClass : Submitting the registration form.
+2025-03-07 02:36:00,819 : INFO : utilities.BaseClass : Verifying successful registration.
+2025-03-07 02:36:21,440 : WARNING : utilities.BaseClass : TimeoutException: Registration message not found.
+2025-03-07 02:36:21,441 : WARNING : utilities.BaseClass : Skipping registration success message verification.
+2025-03-07 02:36:21,441 : INFO : utilities.BaseClass : Registration test passed.
+2025-03-07 02:36:21,447 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 02:36:21,447 : INFO : utilities.BaseClass : Navigating to the Login Page.
+2025-03-07 02:36:25,281 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 02:36:25,281 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 02:36:27,495 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 02:36:27,495 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 02:37:15,998 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 02:37:15,998 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 02:37:15,998 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 02:37:21,429 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 02:37:21,429 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 02:37:21,429 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 02:37:32,480 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 02:37:32,480 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 02:37:32,480 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 02:37:32,480 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 02:37:32,480 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 02:37:32,480 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 02:37:32,681 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 02:37:32,681 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 02:37:32,681 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 02:37:32,685 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 02:37:32,685 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 02:37:32,685 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 02:37:32,685 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 02:37:32,842 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 02:37:32,842 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 02:37:32,842 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 02:37:32,842 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 02:37:32,842 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 02:37:32,842 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 02:37:32,842 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 02:37:32,842 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 02:37:33,038 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 02:37:33,038 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 02:37:33,038 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 02:37:33,038 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 18:54:25,349 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 18:54:30,515 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 18:54:33,442 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 18:54:33,442 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 18:54:33,569 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 18:54:33,571 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 18:54:33,571 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 18:54:33,667 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 18:54:33,667 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 18:54:33,669 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 18:54:33,669 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 18:54:33,869 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 18:54:33,869 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:04:07,179 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-07 19:04:07,179 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-07 19:04:09,320 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-07 19:04:09,320 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-07 19:04:11,560 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-07 19:04:11,560 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-07 19:04:14,775 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-07 19:04:14,775 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-07 19:04:15,855 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-07 19:04:15,855 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-07 19:04:15,855 : INFO : utilities.BaseClass : Save the address
+2025-03-07 19:04:15,855 : INFO : utilities.BaseClass : Save the address
+2025-03-07 19:04:19,252 : INFO : utilities.BaseClass : Verifying success message
+2025-03-07 19:04:19,252 : INFO : utilities.BaseClass : Verifying success message
+2025-03-07 19:04:19,337 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-07 19:04:19,337 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-07 19:04:37,589 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:04:37,589 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:04:37,589 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:04:42,826 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:04:42,826 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:04:42,826 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:04:45,762 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:04:45,762 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:04:45,762 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:04:45,763 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:04:45,763 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:04:45,763 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:04:46,021 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:04:46,021 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:04:46,021 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:04:46,024 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:04:46,024 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:04:46,024 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:04:46,024 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:04:46,347 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:04:46,347 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:04:46,347 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:04:46,347 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:04:46,347 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:04:46,347 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:04:46,347 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:04:46,347 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:04:46,557 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:04:46,557 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:04:46,557 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:04:46,557 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:07:51,979 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-07 19:07:51,979 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-07 19:07:54,356 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-07 19:07:54,356 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-07 19:07:57,106 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-07 19:07:57,106 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-07 19:08:00,071 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-07 19:08:00,071 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-07 19:08:00,898 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-07 19:08:00,898 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-07 19:08:00,898 : INFO : utilities.BaseClass : Save the address
+2025-03-07 19:08:00,898 : INFO : utilities.BaseClass : Save the address
+2025-03-07 19:08:03,860 : INFO : utilities.BaseClass : Verifying success message
+2025-03-07 19:08:03,860 : INFO : utilities.BaseClass : Verifying success message
+2025-03-07 19:08:03,913 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-07 19:08:03,913 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-07 19:08:18,920 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:08:18,920 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:08:18,920 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:08:24,092 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:08:24,092 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:08:24,092 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:08:26,806 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:08:26,806 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:08:26,806 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:08:26,807 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:08:26,807 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:08:26,807 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:08:26,959 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:08:26,959 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:08:26,959 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:08:26,962 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:08:26,962 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:08:26,962 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:08:26,962 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:08:27,062 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:08:27,062 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:08:27,062 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:08:27,062 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:08:27,062 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:08:27,062 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:08:27,062 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:08:27,062 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:08:27,228 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:08:27,228 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:08:27,228 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:08:27,228 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:23:38,118 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-07 19:23:38,118 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-07 19:23:40,381 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-07 19:23:40,381 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-07 19:23:45,722 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-07 19:23:45,722 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-07 19:23:50,160 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-07 19:23:50,160 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-07 19:23:50,876 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-07 19:23:50,876 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-07 19:23:50,876 : INFO : utilities.BaseClass : Save the address
+2025-03-07 19:23:50,876 : INFO : utilities.BaseClass : Save the address
+2025-03-07 19:23:54,077 : INFO : utilities.BaseClass : Verifying success message
+2025-03-07 19:23:54,077 : INFO : utilities.BaseClass : Verifying success message
+2025-03-07 19:23:55,666 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-07 19:23:55,666 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-07 19:24:11,758 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:24:11,758 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:24:11,758 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 19:24:16,904 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:24:16,904 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:24:16,904 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 19:24:19,701 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:24:19,701 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:24:19,701 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 19:24:19,703 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:24:19,703 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:24:19,703 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 19:24:19,911 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:24:19,911 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:24:19,911 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:24:19,914 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:24:19,914 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:24:19,914 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:24:19,914 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 19:24:20,234 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:24:20,234 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:24:20,234 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:24:20,234 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 19:24:20,235 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:24:20,235 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:24:20,235 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:24:20,235 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 19:24:20,474 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:24:20,474 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:24:20,474 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 19:24:20,474 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 23:26:08,178 : INFO : utilities.BaseClass : Launching the Login Page.
+2025-03-07 23:26:10,526 : INFO : utilities.BaseClass : Entering login credentials.
+2025-03-07 23:26:10,852 : INFO : utilities.BaseClass : Clicking on the login button.
+2025-03-07 23:26:13,685 : INFO : utilities.BaseClass : Login process complete.
+2025-03-07 23:26:13,688 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-07 23:26:13,688 : INFO : utilities.BaseClass : Navigating to the address Page.
+2025-03-07 23:26:16,022 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-07 23:26:16,022 : INFO : utilities.BaseClass : Clicking on the address button
+2025-03-07 23:26:18,587 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-07 23:26:18,587 : INFO : utilities.BaseClass : Clicking on the Edit button for Billing Address.
+2025-03-07 23:26:21,651 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-07 23:26:21,651 : INFO : utilities.BaseClass : Filling in the billing address details.
+2025-03-07 23:26:22,389 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-07 23:26:22,389 : INFO : utilities.BaseClass : Selecting the Country and State
+2025-03-07 23:26:22,390 : INFO : utilities.BaseClass : Save the address
+2025-03-07 23:26:22,390 : INFO : utilities.BaseClass : Save the address
+2025-03-07 23:26:25,173 : INFO : utilities.BaseClass : Verifying success message
+2025-03-07 23:26:25,173 : INFO : utilities.BaseClass : Verifying success message
+2025-03-07 23:26:25,213 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-07 23:26:25,213 : INFO : utilities.BaseClass : Address was saved successfully.
+2025-03-07 23:26:40,007 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 23:26:40,007 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 23:26:40,007 : INFO : utilities.BaseClass : Adding the first item to the cart.
+2025-03-07 23:26:45,260 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 23:26:45,260 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 23:26:45,260 : INFO : utilities.BaseClass : Adding the second item to the cart.
+2025-03-07 23:26:47,776 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 23:26:47,776 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 23:26:47,776 : INFO : utilities.BaseClass : Navigating to the cart page.
+2025-03-07 23:26:47,777 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 23:26:47,777 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 23:26:47,777 : INFO : utilities.BaseClass : Retrieving product details from the cart.
+2025-03-07 23:26:48,035 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 23:26:48,035 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 23:26:48,035 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 23:26:48,040 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 23:26:48,040 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 23:26:48,040 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 23:26:48,040 : INFO : utilities.BaseClass : Clicking on the Remove Item button.
+2025-03-07 23:26:48,259 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 23:26:48,259 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 23:26:48,259 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 23:26:48,259 : INFO : utilities.BaseClass : Item removed from the cart.
+2025-03-07 23:26:48,259 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 23:26:48,259 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 23:26:48,259 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 23:26:48,259 : INFO : utilities.BaseClass : Retrieving product details from the cart after remove item.
+2025-03-07 23:26:48,397 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 23:26:48,397 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 23:26:48,397 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"
+2025-03-07 23:26:48,397 : INFO : utilities.BaseClass : b"Product Details in Cart: [{'name': 'Selenium Ruby', 'price': '\xe2\x82\xb9500.00', 'quantity': '1'}, {'name': 'Thinking in HTML', 'price': '\xe2\x82\xb9400.00', 'quantity': '1'}]"

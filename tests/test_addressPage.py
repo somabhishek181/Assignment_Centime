@@ -8,7 +8,7 @@ from utilities.BaseClass import BaseClass
 @pytest.mark.usefixtures("login_fixture")
 class TestAddressPage(BaseClass):
     def test_billingAddress(self):
-        log = self.getLoger()
+        log = BaseClass.getLoger()
         addressPage = AddressPage(self.driver)
 
         log.info("Navigating to the address Page.")
