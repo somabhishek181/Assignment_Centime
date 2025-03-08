@@ -21,7 +21,7 @@ class TestAccountPage(BaseClass):
         self.driver.get("https://practice.automationtesting.in/my-account/")
 
         log.info("Filling the registration form.")
-        accountPage.enter_email().send_keys("testuser51@example.com")
+        accountPage.enter_email().send_keys("testuser181@example.com")
         accountPage.enter_password().send_keys("Abhiss@1234")
 
         # log.info("Submitting the registration form.")
