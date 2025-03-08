@@ -32,7 +32,7 @@ def login_fixture(setup, request):
     driver.get("https://practice.automationtesting.in/my-account/")
 
     logger.info("Entering login credentials.")
-    accountPage.enter_login_username().send_keys("testuser51@example.com")
+    accountPage.enter_login_username().send_keys("testuser181@example.com")
     accountPage.enter_login_password().send_keys("Abhiss@1234")
     logger.info("Clicking on the login button.")
     accountPage.submit_login().click()
